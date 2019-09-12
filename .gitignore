@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Personal authentication information
+authentication.py
+
+# Personal contact information
+contacts.py
