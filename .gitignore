@@ -107,4 +107,4 @@ venv.bak/
 authentication.py
 
 # Personal contact information
-contacts.py
+contact_info.py
