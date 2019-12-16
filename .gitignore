@@ -111,3 +111,7 @@ contact_info.py
 
 # Visual Studio Code configuration
 .vscode/
+
+# AWS Lambda Deployment Package
+package/
+function.zip
